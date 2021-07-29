@@ -3,6 +3,9 @@
   padding: 0;
   font-family: "Fira Sans", sans-serif;
 }
+header {
+  width: 100%;
+}
 .bg-header {
   background-color: #264653;
   width: 100%;
@@ -27,4 +30,17 @@ hr {
 }
 .secondary-color {
   color: #63b5e4;
+}
+button:hover {
+  color: #264653;
+  transform: scale(0.9);
+  transition: all 0.3s ease;
+}
+.card img:hover {
+  transform: scale(1.1);
+  transition: all 0.3s ease;
+}
+figure img:hover {
+  transform: skew(5deg);
+  transition: all 0.3s ease;
 }
