@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+.bg-header {
+  background-color: #264653;
+}
+.primary-btn {
+  color: white;
+  background-color: #e76f51;
+  padding: 6px 19px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
