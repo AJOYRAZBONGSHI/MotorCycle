@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: "Fira Sans", sans-serif;
 }
 .bg-header {
   background-color: #264653;
@@ -21,6 +21,15 @@ hr {
 .gray-img {
   filter: grayscale(1);
 }
-small {
+.primary-color {
   color: #e76f51;
+}
+.sarcale-img {
+  border-radius: 50%;
+  height: 100%;
+}
+.font-bold {
+  font-weight: 500;
+}
+.font-think {
 }
