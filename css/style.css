@@ -14,3 +14,13 @@
   border: none;
   border-radius: 5px;
 }
+hr {
+  width: 150px;
+  margin: 0 auto;
+}
+.gray-img {
+  filter: grayscale(1);
+}
+small {
+  color: #e76f51;
+}
