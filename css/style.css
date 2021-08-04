@@ -44,3 +44,12 @@ figure img:hover {
   transform: skew(5deg);
   transition: all 0.3s ease;
 }
+
+@media (max-width: 320px) {
+  header {
+    width: 100%;
+  }
+  .happy {
+    width: 100%;
+  }
+}
